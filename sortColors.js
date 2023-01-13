@@ -2,7 +2,15 @@
 // We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.
 // You must solve this problem without using the library's sort function.
 
-console.log("sort 0, 1 and 2  && sort colors")
+console.log("sort 0, 1 and 2  && sort colors");
+
+
+
+
+
+
+
+
 
 let arr = [2, 0,1,0 ,2,2,2,1,0 ,1,2,2,0 ,1,0 ,1,0 ,1,0,0,0,0,2,1,1,1,1,2]
 let n = arr.length
